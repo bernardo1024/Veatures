@@ -68,5 +68,3 @@ Optional adds:
 - [ADD_OWNER_TEAMS] routing targets in CI/CD
 - [ADD_POLICY] gates: block Critical, approval High, ticket Medium
 ```
-
-we’ll add a ready-to-commit example.
